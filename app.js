@@ -1,0 +1,1 @@
+window.alert("Bienvenido!, esto es una prueba")
